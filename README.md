@@ -11,6 +11,6 @@ This experiment is based on the simulation realization of dial tone synthesis an
 
 
 ## exp2
-Design low pass filter
+Design low/high pass filter
 
 <img src="https://github.com/yangtiming/Digital-signal-processing-experiments/blob/master/imgs/exp2.png" width="700px">
